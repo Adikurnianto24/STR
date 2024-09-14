@@ -1,0 +1,13 @@
+<!-- res/drawable/background_gradient_circle.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <gradient
+        android:startColor="#FFB421"
+        android:centerColor="#FFF500"
+        android:endColor="#FFB421"
+        android:angle="270">
+        <item android:offset="0.16" android:color="#FFB421"/>
+        <item android:offset="0.5" android:color="#FFF500"/>
+        <item android:offset="1" android:color="#FFB421"/>
+    </gradient>
+    <corners android:radius="360dp"/>
+</shape>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "181408460015",
+    "project_id": "service-tugure-report-910af",
+    "storage_bucket": "service-tugure-report-910af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181408460015:android:d6be8fc8707d90da55bf1a",
+        "android_client_info": {
+          "package_name": "com.tugure.servicetugurereport"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoJwcqztSbPkKchUcb1CKz9aM6_wG0JVc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
